@@ -1,0 +1,26 @@
+<annotation>
+	<folder>no</folder>
+	<filename>no.19ba9714-084b-11ee-9a10-34c93d04b8c4.jpg</filename>
+	<path>C:\Users\aser\LiveStream\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\no\no.19ba9714-084b-11ee-9a10-34c93d04b8c4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>104</ymin>
+			<xmax>351</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>
